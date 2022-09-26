@@ -1,0 +1,11 @@
+Napisz program, który będzię zawierał następujące funckje:
+
+1. dodaj(a,b,c) -  dodaje 3 liczby
+2. wpisz_imie(input) - funckja pobiera input od użytkownika i zwraca jego imie z dopiskiem dzień dobry.
+3. pole_kola(r) - funkcja oblicza pole koła.
+
+Napisz testy do wszystkich funkcji i spróbuj załadować je na githuba.
+
+- spakowanie paczki - git add .
+- podpisanie paczki - git commit -m "komentarz"
+- wysłanie paczki - git push
