@@ -12,6 +12,7 @@ class TestMainMethod(unittest.TestCase):
         im=zadanie.wpisz_imie('Artur')
         self.assertEqual(im,'Dzien dobry ARTUR')
         
-  #  def test_pole_kola(self):
-    #    self.assertEqual(pole_kola(),12)
+    def test_pole_kola(self):
+       pk=zadanie.pole_kola(2)
+       self.assertEqual(pk,12.56)
         
